@@ -1,0 +1,5 @@
+C:\Users\Agus\Desktop\CSharp, complete\interface-example\interface-example\obj\Debug\net7.0\interface-example.csproj.AssemblyReference.cache
+C:\Users\Agus\Desktop\CSharp, complete\interface-example\interface-example\obj\Debug\net7.0\interface-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agus\Desktop\CSharp, complete\interface-example\interface-example\obj\Debug\net7.0\interface-example.AssemblyInfoInputs.cache
+C:\Users\Agus\Desktop\CSharp, complete\interface-example\interface-example\obj\Debug\net7.0\interface-example.AssemblyInfo.cs
+C:\Users\Agus\Desktop\CSharp, complete\interface-example\interface-example\obj\Debug\net7.0\interface-example.csproj.CoreCompileInputs.cache
